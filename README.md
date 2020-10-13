@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage was created to practice working with Command Line Git, Github remote repositories, Git commits, HTML Block Elements, HTML Inline elements, and Markdown_
+_This simple webpage was created to practice working with Command Line Git, Github remote repositories, Git commits, HTML Block Elements, HTML Inline elements, and Markdown_
 
 ## Setup/Installation Requirements
 
